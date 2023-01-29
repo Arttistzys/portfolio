@@ -1,18 +1,22 @@
 export const projects = [
   {
-    title: 'Covid-19 Status App',
-    description: "COVID-19 Status is a free, open-source Android application that shows the current state of COVID-19 in India and the world. It has a beautiful, simple, fast, and responsive UI.",
+    title: 'Checkphra Application',
+    description: `CheckPhra is my first project. 
+    This application is made for people with amulets. Send the image of the amulet to an expert for examination.
+    There is a feature to add coins to use to check the amulet and realtime chat with admin.`,
     image: '/images/covid.jpg',
-    tags: ['Java', 'XML', 'Firebase', 'Rest API'],
+    tags: ['React-Native', 'Redux-Sagas', 'Firebase', 'Apisauce'],
     source: 'https://github.com/Coders-Of-XDA-OT/covid19-status-android',
     visit: 'https://project.vipuljha.com/covid/',
     id: 0,
   },
   {
-    title: 'Portfolio Website',
-    description: "This was my personal portfolio website that has all my work and project experience, including my resume. It used to be my main portfolio before deploying this current portfolio.",
+    title: 'Hino Connect Web',
+    description: `This website is for managing and observing vehicles.
+    All hino cars are equipped with gps and sensors.
+    Can see the current coordinates of each car, including acceleration, speed, braking and other details.`,
     image: '/images/portfolio.jpg',
-    tags: ['HTML', 'CSS', 'Bootstrap', 'JQuery'],
+    tags: ['React JS', 'CSS', 'Bootstrap', 'Redux-Sagas'],
     source: 'https://github.com/lordarcadius/website',
     visit: 'https://project.vipuljha.com/website/',
     id: 1,
