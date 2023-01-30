@@ -1,5 +1,5 @@
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/lordarcadius/portfolio/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/teachdugsimt/portfolio/blob/master/LICENSE)
 
   
 # Personal Portfolio
@@ -46,12 +46,12 @@ Please make sure to maintain `authorship`.
 ## Credits
 
 - [@adrianhajdin](https://github.com/adrianhajdin) (The original author)
-- [@lordarcadius](https://github.com/lordarcadius) (I just fixed and modified few things)
+- [@lordarcadius](https://github.com/teachdugsimt) (I just fixed and modified few things)
 - [@dhruvsaxena1998](https://github.com/dhruvsaxena1998) (For help and PR)
 
   
 ## License
 
-[MIT](https://github.com/lordarcadius/portfolio/blob/master/LICENSE)
+[MIT](https://github.com/teachdugsimt/portfolio/blob/master/LICENSE)
 
   

@@ -28,25 +28,25 @@ const Header = () => (
           <NavLink>About</NavLink>
         </Link>
       </li>
-      <li>
+      {/* <li>
         <a href="https://blog.vipuljha.com">
           <NavLink>Blog</NavLink>
         </a>
-      </li>
+      </li> */}
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/lordarcadius">
+      <SocialIcons href="https://github.com/teachdugsimt">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/lordarcadius/">
+      <SocialIcons href="https://www.linkedin.com/in/tuntikorn-visoothikul-097731227/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/lordarcadius">
+      {/* <SocialIcons href="https://www.instagram.com/lordarcadius">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://www.twitter.com/lordarcadius">
         <AiFillTwitterCircle size="3rem" />
-      </SocialIcons>
+      </SocialIcons> */}
     </Div3>
   </Container>
 );

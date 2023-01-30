@@ -10,32 +10,32 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Chat</LinkTitle>
-          <LinkItem href="https://t.me/lordarcadius">Telegram</LinkItem>
+          <LinkItem href="https://line.me/ti/p/iMBg-3EVW_">Line</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:hey@vipuljha.com">
-            hey@vipuljha.com
+          <LinkItem href="mailto:visoothikul.t@gmail.com">
+            visoothikul.t@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2021 <Link href="https://www.vipuljha.com">  Tuntikorn Visoothikul</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2021 <Link href="">  Tuntikorn Visoothikul</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/lordarcadius">
+          <SocialIcons href="https://github.com/teachdugsimt">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/lordarcadius/">
+          <SocialIcons href="https://www.linkedin.com/in/tuntikorn-visoothikul-097731227/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/lordarcadius">
+          {/* <SocialIcons href="https://www.instagram.com/lordarcadius">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://www.twitter.com/lordarcadius">
             <AiFillTwitterCircle size="3rem" />
-          </SocialIcons>
+          </SocialIcons> */}
         </SocialContainer>
       </SocialIconsContainer>
 
