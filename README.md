@@ -10,12 +10,12 @@ A portfolio built in React and NextJS. Simple, clean and fast.
 
 
 
-![App Screenshot](https://i.ibb.co/jRRNMkH/Screenshot-from-2021-10-27-18-45-14.png)
+![App Screenshot](https://arttist-portfolio.s3.ap-southeast-1.amazonaws.com/title-and-header/port-preview.png)
 
   
 ## Demo
 
-[Live Preview](https://www.vipuljha.com)
+[Live Preview](https://master.d2scedyffnt9lq.amplifyapp.com/)
 
 ## Run Project 
 
