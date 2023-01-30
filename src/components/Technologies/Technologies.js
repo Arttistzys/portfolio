@@ -11,8 +11,8 @@ const Technologies = () => (
       I've worked with multiple technologies as a developer to develop & maintain my projects.
     </SectionText>
     <List>
-      {Skills.map((Skill) => (
-        <ListItem key={Skill.slug}>
+      {Skills.map((Skill, index) => (
+        <ListItem key={index + Skill.slug}>
           <picture>
             <Skill.Component size="3rem" />
           </picture>

@@ -7,9 +7,9 @@ const Header = () => (
   <Container>
     <Div1>
       <Link href="/">
-        <a style={{ display: 'flex', alignItems: 'center', color: "white" }}>
+        <div style={{ display: 'flex', alignItems: 'center', color: "white" }}>
           <img src="/logo.png" height={40} width={40} /> <span style={{ marginLeft: 10, marginTop: 7, fontSize: 20 }} >Visoothikul.T</span>
-        </a>
+        </div>
       </Link>
     </Div1>
     <Div2>

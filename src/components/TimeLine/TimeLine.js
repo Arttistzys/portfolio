@@ -52,7 +52,7 @@ const Timeline = () => {
         <>
           {TimeLineData.map((item, index) => (
             <CarouselMobileScrollNode
-              key={index}
+              key={item.text + index}
               final={index === TOTAL_CAROUSEL_COUNT - 1}>
               <CarouselItem
                 index={index}
@@ -102,7 +102,7 @@ const Timeline = () => {
         {TimeLineData.map((item, index) => {
           return (
             <CarouselButton
-              key={index}
+              key={item.text + index}
               index={index}
               active={activeItem}
               onClick={(e) => handleClick(e, index)}
