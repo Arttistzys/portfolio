@@ -8,8 +8,8 @@ export const projects = [
     tags: ['React-Native', 'Redux-Sagas', 'Firebase'],
     source: 'https://github.com/Coders-Of-XDA-OT/covid19-status-android',
     visit: 'https://project.vipuljha.com/covid/',
-    imageList: ['/images/checkphra-img/IMG_1739.jpg', '/images/checkphra-img/IMG_1740.jpg', '/images/checkphra-img/IMG_1741.jpg', '/images/checkphra-img/IMG_1742.jpg',
-      '/images/checkphra-img/IMG_1743.jpg', '/images/checkphra-img/IMG_1745.jpg', '/images/checkphra-img/IMG_1747.jpg', '/images/checkphra-img/IMG_1748.jpg', '/images/checkphra-img/IMG_1752.jpg'],
+    imageList: ['/images/checkphra-img/IMG_1739.jpg', '/images/checkphra-img/IMG_1740.jpg', '/images/checkphra-img/IMG_1741.JPG', '/images/checkphra-img/IMG_1742.jpg',
+      '/images/checkphra-img/IMG_1743.jpg', '/images/checkphra-img/IMG_1745.jpg', '/images/checkphra-img/IMG_1747.JPG', '/images/checkphra-img/IMG_1748.JPG', '/images/checkphra-img/IMG_1752.JPG'],
     id: 0,
   },
   {
