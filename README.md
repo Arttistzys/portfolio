@@ -1,7 +1,4 @@
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/teachdugsimt/portfolio/blob/master/LICENSE)
-
-  
 # Personal Portfolio
 
 A portfolio built in React and NextJS. Simple, clean and fast.
@@ -32,26 +29,3 @@ To deploy this project run
 ```bash
   npm build
 ```
-
-  
-## Contributing
-
-Contributions are always welcome!
-
-Fork repo, make changes, test, create a pull request.
-
-Please make sure to maintain `authorship`.
-
-  
-## Credits
-
-- [@adrianhajdin](https://github.com/adrianhajdin) (The original author)
-- [@arttistzys](https://github.com/Arttistzys) (I just fixed and modified few things)
-- [@dhruvsaxena1998](https://github.com/dhruvsaxena1998) (For help and PR)
-
-  
-## License
-
-[MIT](https://github.com/Arttistzys/portfolio/blob/master/LICENSE)
-
-  
