@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": false,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3009",
     "build": "next build && next export",
-    "start": "next start"
+    "start": "next start -p 3009"
   },
   "dependencies": {
     "antd": "^5.1.6",
