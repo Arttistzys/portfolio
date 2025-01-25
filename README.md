@@ -29,3 +29,18 @@ To deploy this project run
 ```bash
   npm build
 ```
+  
+## Contributing
+
+Contributions are always welcome!
+
+Fork repo, make changes, test, create a pull request.
+
+Please make sure to maintain `authorship`.
+
+  
+## Credits
+
+- [@adrianhajdin](https://github.com/adrianhajdin) (The original author)
+- [@arttistzys](https://github.com/Arttistzys) (I just fixed and modified few things)
+- [@dhruvsaxena1998](https://github.com/dhruvsaxena1998) (For help and PR)
